@@ -32,8 +32,8 @@ MNIST ("Modified National Institute of Standards and Technology") Dataset
 
 ## Accuracy
 
-- DNN model: 95.31%
-- CNN model: 98.91%
+- DNN model: 95.25%
+- CNN model: 99.12%
 
 ## References
 
