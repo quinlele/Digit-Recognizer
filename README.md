@@ -30,6 +30,11 @@ MNIST ("Modified National Institute of Standards and Technology") Dataset
 - Create a simple DNN model
 - Create a simple CNN model
 
+## Accuracy:
+
+- DNN model: 95.31%
+- CNN model: 98.91%
+
 ## References
 
 - Dataset from Kaggle: https://www.kaggle.com/c/digit-recognizer/
