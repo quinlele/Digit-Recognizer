@@ -1,4 +1,4 @@
-# Digit-Recognizer
+# Digit Recognizer
 
 ```php
 Le Hanh Quyen
